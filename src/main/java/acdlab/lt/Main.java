@@ -1,9 +1,7 @@
 package acdlab.lt;
 
-
 import acdlab.lt.model.Data;
 import acdlab.lt.utils.IOStreamUtils;
-
 import java.util.List;
 
 public class Main {
